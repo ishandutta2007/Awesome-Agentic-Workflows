@@ -1,4 +1,16 @@
-# Awesome-Agentic-Workflows
+<div align="center">
+  <img src="assets/banner.svg" alt="Awesome Agentic Workflows Banner" width="800" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</div>
+
+# ✨ Awesome-Agentic-Workflows ✨
+
+**Keywords**: *Agentic Workflows, AI Agents, LLM Orchestration, Autonomous Systems, Multi-Agent Systems, GenAI*
+
 ## 🤖 The Agentic Workflows Map
 
 > **A comprehensive reference guide for Agentic Workflows—architectural patterns, orchestration variants, design patterns, and real-world industrial deployments.**
@@ -71,3 +83,15 @@ The industry-standard software frameworks used to orchestrate these workflows.
 *   [**Token Loop Cascades:**](pages/token-loop-cascades.md) Agents getting stuck in infinite loops trying to solve an unresolvable error, exponentially scaling API billing costs.
 *   [**State Drift:**](pages/state-drift.md) As an agent executes 20+ turns, the context window accumulates irrelevant tool outputs, causing the model to forget the original goal.
 *   [**Non-Deterministic Routing:**](pages/non-deterministic-routing.md) Small shifts in LLM weights or prompt sensitivity can cause the routing agent to choose completely different downstream sub-agents for identical inputs.
+
+
+## 🌟 Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007/Awesome-Agentic-Workflows&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Agentic-Workflows&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Agentic-Workflows&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Agentic-Workflows&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
